@@ -35,4 +35,6 @@
 /vendor
 .ruby-version
 Gemfile
+Rakefile
+
 
